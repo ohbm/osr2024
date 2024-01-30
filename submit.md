@@ -50,8 +50,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **5 slots** (time TBD):<br>
-**The exact time for these slots as well as the submission link will be released soon!**
+This year we offer **5 slots** (time TBD). For now, we open submissions to 2 slots, and the other 3 will be open shortly before the conference:<br>
 <!-- **10.30-11.30 (GMT -4) July 23** (Sunday) :  -->OSR: Emergent Session #1 <br>
 <!-- **10.30-11.30 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #2 <br>
 <!-- **14.45-15.45 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #3 <br>
