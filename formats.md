@@ -52,7 +52,7 @@ Speakers will be selected based on relevancy to the chosen panel topic. Panels t
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
 <p align="justify">**We are looking for self-nominated panelists on each topic!**</p>
-<p align="justify"> In the 2024 OSR, we featured 5 panel discussions with their respective table talk session. These panel sessions include:</p>
+<p align="justify"> In the 2024 OSR, we featured 5 panel discussions with their respective table talk. These panel sessions include:</p>
 <ol>
   <li>Open Sience - who pays the bill?</li>
   <li>Getting Started in Open Science</li>
