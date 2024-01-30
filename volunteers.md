@@ -5,7 +5,6 @@ title: Team
 
 The core OSR team was elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
 
-
 <br>
 
 <table class="people">
@@ -142,7 +141,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
         <td class="people">
             <a style="display:block; color:#05323F" >
             <aside>
-                <img src="../img/team/povilas_karvelis1.jpg" style="height:150px; border-radius:50%;">
+            <header>
+                <img src="../img/team/povilas_karvelis1.jpg" style="height:200px; border-radius:50%;">
                 <h3>Povilas Karvelis</h3>
                 <h4>Hybrid Chair-Elect</h4>
                 <h6>Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Canada</h6>
@@ -158,7 +158,9 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
     </tr>
 </table>
 
+{::options parse_block_html="false" /}
 ### A special thanks to our volunteers!
+{::options parse_block_html="true" /}
 <p align="justify">
 Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
 </p>
