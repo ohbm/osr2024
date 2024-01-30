@@ -8,6 +8,9 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 
 <br>
 
+<html>
+<table>
+
 
 <table class="people">
     <tr class="people">
@@ -226,7 +229,7 @@ Have a look at their contact links and bios below, and give them a virtual high-
         </td>
     {% endfor %}
     </tr>
-{% endfor %}
+{% endfor %}-->
 </table>
 
-</html> -->
+</html>
