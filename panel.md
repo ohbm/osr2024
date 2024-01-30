@@ -91,9 +91,10 @@ When: TBD <!-- 8:00 GMT-4 | July 23, 2023 (Sunday) --> <br/>
 <br/>
 With a growing interest in Open Science, questions arise regarding who is paying for what and what 'inclusive' means. If Open Access publication comes with high fees, one can ask whether this shift in payment responsibility, from the reader to the author, is excluding more people than it includes. Related to this is the question of the relationship between Open Access and Impact Factors and how much this affects researchers from different backgrounds and at different stages of their careers. There are also invisible costs to Open Science, such as platforms for sharing preprints, code, and data. Who develops, maintains, and hosts these platforms, and why? These are examples of the questions that will be addressed during this panel discussion. Experts with diverse backgrounds will share their experiences and thoughts. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take.   
 <br><br>
+
 At the end of the panel discussion, the audience members will be able to:
-1. Giving insight into who pays in for what (neuro-)science and who does that affects most.
-2. Stimulate critical thinking on how to make Open Science inclusive in terms of costs.
+  1. Giving insight into who pays in for what (neuro-)science and who does that affects most.
+  2. Stimulate critical thinking on how to make Open Science inclusive in terms of costs.
 <br/>
 
 <html>
@@ -110,9 +111,10 @@ When: TBD <!-- 14:15 GMT-4 | July 23, 2023 (Sunday) --> <br/>
 <br/>
 There is rapid change occurring in and shaping the landscape of the scientific community that is caused by the open science movement. The panellists will dive into deconstructing and defining open access; open data, materials, and code; as well as touch on facilitating reproducible analyses, preregistration and registered reports such as in PrePrints, easy replication of research methods, inclusive of teaching open science practices. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take, with recommendations of best practices in Open Science. 
 <br><br>
+
 At the end of the panel discussion, the audience members will be able to:
-1. Giving insight in what are the best practices in Open Science.
-2. Stimulate critical thinking on how to make Open Science inclusive in terms of participants from various geographical locations, gender, race and disabilities.
+  1. Giving insight in what are the best practices in Open Science.
+  2. Stimulate critical thinking on how to make Open Science inclusive in terms of participants from various geographical locations, gender, race and disabilities.
 <br/>
 <html>
 <div class="panel-speakers" id="panel2"></div>
@@ -129,9 +131,10 @@ When: TBD <!-- 8:00 GMT-4 | July 24, 2023 (Monday) --> <br/>
 <br/>
 There has been a dramatic shift in the uptake of open science practices in the past thirty years. This has led to considerable change in how we collect, analyze and distribute data, how we publish and disseminate findings, and how we recruit staff and seek employment. How we do science has changed - and so understanding what has happened, why, and where things may yet change is of key importance to researchers from all fields. Attendees will find out about the drivers behind many of these changes - whether they have lived up to expectations, and where any gaps remain.
 <br><br>
+
 At the end of the panel discussion, the audience members will be able to:
-1. Consider the major initiatives of open science and find out how these developments can be used to improve your workflows.
-2. Develop a deep understanding of how open science fits within the broader publishing and funding landscapes.
+  1. Consider the major initiatives of open science and find out how these developments can be used to improve your workflows.
+  2. Develop a deep understanding of how open science fits within the broader publishing and funding landscapes.
 <br/>
 <html>
 <div class="panel-speakers" id="panel3"></div>
@@ -150,15 +153,15 @@ Although Open Science has been well-recognized by the neuroimaging field as a cr
 <br><br>
 
 Specific topics of discussion include:
-1. What is stopping people from practicing Open Science?
-2. What is stopping institutions and governments to support Open Science?
-3. How do you think the community could help?
+  - What is stopping people from practicing Open Science?
+  - What is stopping institutions and governments to support Open Science?
+  - How do you think the community could help?
 <br><br>
 
 At the end of the panel discussion, the audience members will be able to:
-1. Understanding the current Open Science in Asia/Korea.
-2. Learn about the unique challenges Asian/Korean Open Science researchers are facing.
-3. Initiate discussion for possible solutions and support.
+  1. Understanding the current Open Science in Asia/Korea.
+  2. Learn about the unique challenges Asian/Korean Open Science researchers are facing.
+  3. Initiate discussion for possible solutions and support.
 <br/>
 <html>
 <div class="panel-speakers" id="panel4"></div>
@@ -176,13 +179,13 @@ Crowdsourcing e.g., multi-site collaboration and citizen science, is rising as a
 <br><br>
 
 Specific topics of discussion include:
-1. How does crowdsourcing work in brain mapping research? 
-2. What are the ethical considerations unique to crowdsourcing projects? 
+  - How does crowdsourcing work in brain mapping research? 
+  - What are the ethical considerations unique to crowdsourcing projects? 
 <br><br>
 
 At the end of the panel discussion, the audience members will be able to:
-1. Get insights into how crowdsourcing and open science work and identify optimal crowdsourcing models for brain mapping research.
-2. Develop a nuanced understanding of ethical considerations unique to crowdsourcing neuroscience projects.
+  1. Get insights into how crowdsourcing and open science work and identify optimal crowdsourcing models for brain mapping research.
+  2. Develop a nuanced understanding of ethical considerations unique to crowdsourcing neuroscience projects.
 <br>
 <html>
 <div class="panel-speakers" id="panel5"></div>
