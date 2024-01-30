@@ -17,7 +17,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 </p>
 {::options parse_block_html="false" /}
 
-<!-- ---
+---
 
 {::options parse_block_html="true" /}
 
@@ -33,7 +33,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DouYu. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
 
 <br/>
-<br/> -->
+<br/>
 
 ---
 

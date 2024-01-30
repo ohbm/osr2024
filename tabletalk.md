@@ -5,7 +5,7 @@ title: Table Topic Discussions
 
 Table Topics are informal discussions within the community including but not limited to trainees, early career to senior researchers, so for whomever would like to be a part of these discussions.
 
-### As part of the OHBM 2023 program.
+### As part of the OHBM 2024 program.
 
 #### Table Talk 1: Open Science - Who pays the bill?
 WHEN: TBD <!-- 11.30 (GMT -4), July 23 (Sunday) -->  <br>
