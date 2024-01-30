@@ -16,16 +16,11 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" >
             <aside>
             <header>
-                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
-                <h3>Subapriya Suppiah</h3>
-                <h4>OSR Co-Chair</h4>
-                <h6>Universiti Putra Malaysia</h6>
+                <img src="../img/team/selma_lugtmeijer1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Selma Lugtmeijer</h3>
+                <h4>OSR Chair</h4>
+                <h6>Department of Psychology, University of Birmingham, UK</h6>
                 <h4>
-                 <!--
-                <a target="_blank" href="https://twitter.com/redgreenblues"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/rgbayrak"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://rgbayrak.github.io/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
                 </h4>
                 <br>
             </header>
@@ -36,10 +31,11 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/selma_lugtmeijer1.jpg" style="height:200px; border-radius:50%;">
-                <h3>Selma Lugtmeijer</h3>
+                <header>
+                <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Xiangzhen Kong</h3>
                 <h4>OSR Co-Chair</h4>
-                <h6>City Brock University, Department of Psychology, Canada</h6>
+                <h6> Department of Psychology and Behavioral Sciences, Zhejiang University</h6>
                 <h4>
                 <!--
                 <a target="_blank" href="https://twitter.com/NaomiGaggi"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -56,15 +52,32 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" >
             <aside>
             <header>
-                <img src="../img/team/yiju_lee1.jpg" style="height:200px; border-radius:50%;">
-                <h3>Yi-Ju Lee (Jean)</h3>
-                <h4>Treasurer Elect</h4>
-                <h6>Institute of Statistical Science, Academia Sinica, Taipei, Taiwan</h6>
+                <img src="../img/team/ju-chi_yu1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Ju-Chi Yu</h3>
+                <h4>OSR Chair-Elect</h4>
+                <h6>Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada</h6>
                 <h4>
                  <!--
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" >
+            <aside>
+                <img src="../img/team/povilas_karvelis1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Povilas Karvelis</h3>
+                <h4>Hybridization Officer</h4>
+                <h6>Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada</h6>
+                <h4>
+                <!--
+                <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 -->
                 </h4>
                 <br>
@@ -80,10 +93,10 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" >
             <aside>
             <header>
-                <img src="../img/team/koen_haak1.jpg" style="height:200px; border-radius:50%;">
-                <h3>Koen Haak</h3>
+                <img src="../img/team/nils_muhlert1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Nils Muhlert</h3>
                 <h4>OSSIG Chair</h4>
-                <h6>Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands</h6>
+                <h6>University of Manchester, UK</h6>
                 <h4>
                  <!--
                 <a target="_blank" href="https://twitter.com/PersonomicsLab"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -98,10 +111,10 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" >
             <aside>
             <header>
-                <img src="../img/team/gondova_andrea1.jpg" style="height:200px; border-radius:50%;">
-                <h3>Andrea Gondova</h3>
+                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
+                <h3>Subapriya Suppiah</h3>
                 <h4>OSSIG Secretary</h4>
-                <h6>Université de Paris Cité, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France</h6>
+                <h6>Faculty of Medicine and Health Sciences, Universiti Putra Malaysia</h6>
                 <h4>
                  <!--
                 <a target="_blank" href="https://twitter.com/sNeuroble"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -112,17 +125,39 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
-  <td class="people">
+        <td class="people">
             <a style="display:block; color:#05323F" >
             <aside>
             <header>
-                <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
-                <h3>Xiangzhen Kong</h3>
-                <h4>OSR Co-Chair Elect</h4>
-                <h6> Department of Psychology and Behavioral Sciences, Zhejiang University</h6>
+                <img src="../img/team/yiju_lee1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Yi-Ju Lee (Jean)</h3>
+                <h4>OSSIG Treasurer</h4>
+                <h6>Institute of Statistical Science, Academia Sinica, Taipei, Taiwan</h6>
                 <h4>
-                <!--
-                <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                 <!--
+                <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" >
+            <aside>
+            <header>
+                <img src="../img/team/stefano_moia1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Stefano Moia</h3>
+                <h4>OSSIG Chair-Elect</h4>
+                <h6>Faculty of Psychology and Neuroscience, Maastricht University</h6>
+                <h4>
+                 <!--
+                <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 -->
                 </h4>
                 <br>

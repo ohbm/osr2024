@@ -37,25 +37,27 @@ function showScheduleForDay(day) {
 }
 </script>
 
+<div>
+**Coming soon!**
+</div>
 
 <div class="schedule-days">
-  <div id="day-07-23" class="schedule-day active" onclick="showScheduleForDay('07-23')">July 23</div>
-  <div id="day-07-24" class="schedule-day" onclick="showScheduleForDay('07-24')">July 24</div>
-  <div id="day-07-25" class="schedule-day" onclick="showScheduleForDay('07-25')">July 25</div>
-  <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 26</div>
+  <div id="day-06-24" class="schedule-day active" onclick="showScheduleForDay('06-24')">June 24</div>
+  <div id="day-06-25" class="schedule-day" onclick="showScheduleForDay('06-25')">June 25</div>
+  <div id="day-06-26" class="schedule-day" onclick="showScheduleForDay('06-26')">June 26</div>
+  <div id="day-06-27" class="schedule-day" onclick="showScheduleForDay('06-27')">June 27</div>
 </div>
 
 <h5 style="text-align: center;">
-GMT-4
+GMT+9
 </h5>
 
-<div id="schedule-07-23" class="schedule-block">
-    <h4>July 23, Sunday</h4>
-
+<div id="schedule-06-24" class="schedule-block">
+    <h4>June 24, Monday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
+            <!-- <tr>
+                <td>GMT+9</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -92,18 +94,17 @@ GMT-4
                     <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Evolution of Open Publishing</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-evolution-of" target="_blank">Join on Crowdcast</a></div>
                 </td>
-            </tr>
+            </tr> -->
         </table>
     </div>
 </div>
 
-<div id="schedule-07-24" class="schedule-block">
-    <h4>July 24, Monday</h4>
-
+<div id="schedule-06-25" class="schedule-block">
+    <h4>June 25, Tuesday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
+            <!-- <tr>
+                <td>GMT+9</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -133,18 +134,17 @@ GMT-4
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
-            </tr>
+            </tr> -->
         </table>
     </div>
 </div>
 
-<div id="schedule-07-25" class="schedule-block">
-    <h4>July 25, Tuesday</h4>
-
+<div id="schedule-07-26" class="schedule-block">
+    <h4>June 26, Wednesday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
+            <!-- <tr>
+                <td>GMT+9</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -180,26 +180,23 @@ GMT-4
                     <div>Off Schedule Session: Mathworks</div>
                     <div><a href="https://www.crowdcast.io/c/osr-mathworks" target="_blank">Join on Crowdcast</a></div>
                 </td>
-            </tr>
-            
+            </tr>           
             <tr>
                 <td>14:45-16:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
-            </tr>
+            </tr> -->
         </table>
     </div>
 </div>
-<div id="schedule-07-26" class="schedule-block">
-
-    <h4>July 26, Wednesday</h4>
-
+<div id="schedule-06-27" class="schedule-block">
+    <h4>June 27, Thursday</h4>
     <div class="schedule-content">   
         <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
+            <!-- <tr>
+                <td>GMT+9</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -215,9 +212,7 @@ GMT-4
                     <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Large open data repositories: sustainability and global implications of reuse</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
-            </tr>
-            
-            
+            </tr> -->
         </table>
     </div>
 </div>

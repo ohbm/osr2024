@@ -4,7 +4,7 @@
 title: Home
 
 # Short description of your site
-description: Open Science Room 2023
+description: Open Science Room 2024
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -33,8 +33,8 @@ navbar-links:
     - Panels: "panel"
     - Emergent Sessions: "emergent"
     - Table Talks: "tabletalk"
-    - Symposium: "symposium"
-    - Educational: "educational"
+    # - Symposium: "symposium"
+    # - Educational: "educational"
 
   Register: "register"
   Volunteering: 
@@ -111,7 +111,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ohbm.github.io/osr2023"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ohbm.github.io/osr2024"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

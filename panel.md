@@ -76,17 +76,18 @@ function displayPanel(panelName) {
 
 
 The OSR has always been a place to learn and share experiences.
-This year we are centering these experiences around themes which are undergoing rapid change in our discipline.
+This year we are centering these experiences around themes which are undergoing rapid change in our discipline. For each session, we
+are looking for 1-2 self-nominated panelists. If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg)! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
 
-## Topic 1: Telehealth as a tool for open data research and sharing
-#### <a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Crowdcast</a> 
-When: 8:00 GMT-4 | July 23, 2023 (Sunday) <br/>
+## Topic 1: Open Science - Who pays the bill?
+#### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
+When: TBD <!-- 8:00 GMT-4 | July 23, 2023 (Sunday) --> <br/>
 <br/>
-Neurological care is a challenge in any given situation, more so for those living in rural and suburban areas due to limited access. The usage of telemedicine and information and communication technology (ICT) can avail therapeutic measures to be instituted prior to transfer of patients to more urban hospices. Computerized image transfer and big data analysis to provide fast diagnostics in regions with limited resources are among the potential roles of neuroscience in impacting mainstream neurological management. This panel will focus on discussing the lessons learned that impact of telehealth in neurosciences, particularly in assisting fast diagnostics, improved post-surgical outcomes, and promotion of educational teleconferencing to enhance neurological services to the underprivileged and underserved rural community. It will also address on ways to leverage these tools to transmit data securely and explore how neuroscience has impacted telehealth practices worldwide. 
+With a growing interest in Open Science, questions arise regarding who is paying for what and what 'inclusive' means. If Open Access publication comes with high fees, one can ask whether this shift in payment responsibility, from the reader to the author, is excluding more people than it includes. Related to this is the question of the relationship between Open Access and Impact Factors and how much this affects researchers from different backgrounds and at different stages of their careers. There are also invisible costs to Open Science, such as platforms for sharing preprints, code, and data. Who develops, maintains, and hosts these platforms, and why? These are examples of the questions that will be addressed during this panel discussion. Experts with diverse backgrounds will share their experiences and thoughts. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take.   
 <br><br>
 At the end of the panel discussion, the audience members will be able to:
-1. Identify key roles of neuroscience in aiding the development and advancement of telehealth practices worldwide 
-2. Able to recognize potential challenges and gain insight on ways to overcome these pertaining to telehealth services in neurological conditions
+1. Giving insight into who pays in for what (neuro-)science and who does that affects most.
+2. Stimulate critical thinking on how to make Open Science inclusive in terms of costs.
 <br/>
 
 <html>
@@ -97,19 +98,16 @@ document.getElementById("open-science-panel").innerHTML = displayPanel("Open Sci
 </script>
 </html>
 
-## Topic 2: Evolution of open publishing (To do or not to do?/Lessons learnt)
-#### <a href="https://www.crowdcast.io/e/panel-2-evolution-of" target="_blank">Join on Crowdcast</a> 
-When: 14:15 GMT-4 | July 23, 2023 (Sunday) <br/>
+## Topic 2: Getting Started in Open Science
+#### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
+When: TBD <!-- 14:15 GMT-4 | July 23, 2023 (Sunday) --> <br/>
 <br/>
-The world of scientific publishing changed exponentially in the past decade: More journals join forces to recommend authors to upload their manuscripts to preprint servers; Code and data are required to be made publicly available for replication. At the same time, journals are providing open access options, sometimes exclusively, which means that authors must pay a large amount of money (e.g., up to €9,500) for publishing one single paper. Journals also seek for new publishing models. For instance, the online journal eLife is running a new model of no rejection after peer review. Our generation is facing the rapid evolution of research publishing. We have noticed that researchers have different thoughts on these changes. Topics will include but not limit to: cultural changes regarding assessment of funding and paper quality; what model is more accessible – higher publication fees & open access vs. reader fees; auxiliary materials that accompany papers. 
+There is rapid change occurring in and shaping the landscape of the scientific community that is caused by the open science movement. The panellists will dive into deconstructing and defining open access; open data, materials, and code; as well as touch on facilitating reproducible analyses, preregistration and registered reports such as in PrePrints, easy replication of research methods, inclusive of teaching open science practices. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take, with recommendations of best practices in Open Science. 
 <br><br>
-Questions adressed during this panel discussion will include:
-- How do journals balance cost and benefit? 
-- Have you benefited from the open materials (e.g., code and data) with published papers? And how do you deal with such materials of your own studies?
-- Does a journal’s publishing model (e.g., APC) influence your decision to peer review?
-- What are your thoughts about the future of peer review?
-- As authors and reviewers, what do you think about eLife’s new model? What do you think is the best publishing model from the view of researchers?
-<br>
+At the end of the panel discussion, the audience members will be able to:
+1. Giving insight in what are the best practices in Open Science.
+2. Stimulate critical thinking on how to make Open Science inclusive in terms of participants from various geographical locations, gender, race and disabilities.
+<br/>
 <html>
 <div class="panel-speakers" id="panel2"></div>
 
@@ -119,12 +117,16 @@ document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open 
 </html>
 
 
-## Topic 3: Standardization of code
-#### <a href="https://www.crowdcast.io/e/panel-3-standardization" target="_blank">Join on Crowdcast</a> 
-When: 8:00 GMT-4 | July 24, 2023 (Monday) <br/>
+## Topic 3: The changing face of Open Science
+#### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
+When: TBD <!-- 8:00 GMT-4 | July 24, 2023 (Monday) --> <br/>
 <br/>
-An increasing number of journals require a data and code availability statement to be included in a published paper. From the perspective of transparency, efficient use of time and resources, and replication of results, open code is very important. However, analysis code is often a second-class citizen in neuroimaging research. This is something we can change. In this session we will discuss with four experts best-practices in software development for scientists - and how those practices can result in real-world gains in research quality and output. Sharing code by making it available in some repository is only one step towards practicing open code. By adhering to certain standards, like good coding practices and quality monitoring, open code can contribute to efficiency and quality of research. We will share tips on best-practices for coding, discuss advantages and disadvantages of standardization of open code, and address the question of whether we can expect individual researchers/small labs to share code of a comparable standard as specialized programmers. 
-<br>
+There has been a dramatic shift in the uptake of open science practices in the past thirty years. This has led to considerable change in how we collect, analyze and distribute data, how we publish and disseminate findings, and how we recruit staff and seek employment. How we do science has changed - and so understanding what has happened, why, and where things may yet change is of key importance to researchers from all fields. Attendees will find out about the drivers behind many of these changes - whether they have lived up to expectations, and where any gaps remain.
+<br><br>
+At the end of the panel discussion, the audience members will be able to:
+1. Consider the major initiatives of open science and find out how these developments can be used to improve your workflows.
+2. Develop a deep understanding of how open science fits within the broader publishing and funding landscapes.
+<br/>
 <html>
 <div class="panel-speakers" id="panel3"></div>
 
@@ -134,16 +136,16 @@ document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code")
 </html>
 
 
-## Topic 4: Open Data Governance and Infrastructure
-#### <a href="https://www.crowdcast.io/e/panel-4-data-governance" target="_blank">Join on Crowdcast</a> 
-When: 10:30 GMT-4 | July 25, 2023 (Tuesday) <br/>
+## Topic 4: Open Science in Asia/Korea
+#### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
+When: TBD <!-- 10:30 GMT-4 | July 25, 2023 (Tuesday) --> <br/>
 <br/>
-The sharable open source data serves are the foundation of open science, requiring effective strategies for management and organization. As more and more data are accumulated, sustainable data usage requires interactions between front- and back-end engineers, scientists, data providers, and data users. A large amount of brain image data has been collected, anticipating solving the problems of varied data quality, limited funding resources, or having too little data for studying specific populations or rare diseases in neuroscience research. Taking the advantage of methodologies like AI, big data and multi-omics approaches, on the other hand, enables scientists and doctors to understand the brain from new perspectives. By establishing discussions in this panel session, we take large-scale opensource brain image datasets as examples and aim to reduce inequalities by promoting value-added data usage with experts from different domains. Moreover, the panel will also include discussions on legal and ethical issues.
+Although Open Science has been well-recognized by the neuroimaging field as a crucial step towards better scientific practices that facilitate reproducibility and reliability, the progress has mainly taken place in the Western world. Asia, or Korea specifically, is relatively new to the practice and the idea and has encountered unique challenges. With the annual meeting of OHBM being held in an Asian, non-English speaking country, this meeting provides a unique opportunity for local researchers who are interested in Open Science to share their experiences and challenges they face in their countries. Specific topics of discussion include “What is stopping people from practicing Open Science,” “What is stopping institutions and governments to support Open Science,” and “How do you think the community could help?” This discussion will foster the development of Open Science through international collaboration and advance the Open Science practice to being more inclusive globally.
 <br><br>
 At the end of the panel discussion, the audience members will be able to:
-1. Acquire the information on the current available opensource brain image database.
-2. Understand how to properly use or collect open brain image data ethically and legally.  
-3. Adopt value-added strategies and infrastructure to achieve data sustainability.  
+1. Understanding the current Open Science in Asia/Korea.
+2. Learn about the unique challenges Asian/Korean Open Science researchers are facing.
+3. Initiate discussion for possible solutions and support.
 <br>
 <html>
 <div class="panel-speakers" id="panel4"></div>
@@ -153,13 +155,16 @@ document.getElementById("statistical-perspectives-panel").innerHTML = displayPan
 </script>
 </html>
 
-## Topic 5: Large open data repositories: sustainability and global implications of reuse
-#### <a href="https://www.crowdcast.io/e/panel-5-data-reuse" target="_blank">Join on Crowdcast</a> 
-When: 10:30 GMT-4 | July 26, 2023 (Wednesday) <br/>
+## Topic 5: Many A Little Makes A Mickle: Crowdsourcing for brain mapping
+#### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
+When: TBD <!-- 10:30 GMT-4 | July 26, 2023 (Wednesday) --> <br/>
 <br/>
-In this session we will discuss pros and cons of reusing large open data sets. There are many advantages of large neuroimaging-based databases, however, most involve data from the Western, educated, industrial population. We will discuss the implications of this. Another aspect we want to discuss is the support for data storage, sharing, and future reuse. There is a growing need for assistance through data managers or data librarians, free but monitored access to open data repositories for both long-term and short-term storage, as well as educational programs to increase awareness and to help create a culture of good data practices in neuroscience. 
+Crowdsourcing e.g., multi-site collaboration and citizen science, is rising as a new research paradigm. By harnessing the power of crowdsourcing, we can leverage the diverse expertise and perspectives of a global community to accelerate advancements in brain mapping. This collaborative approach not only facilitates the sharing of data and resources but also promotes innovation and efficiency in tackling the complexities of understanding the brain. How does crowdsourcing work in brain mapping research? What are the ethical considerations unique to crowdsourcing projects?  These are examples of the questions that will be addressed during this panel discussion. Experts with diverse backgrounds will share their experiences and thoughts.
+<br><br>
+At the end of the panel discussion, the audience members will be able to:
+1. Get insights into how crowdsourcing and open science work and identify optimal crowdsourcing models for brain mapping research.
+2. Develop a nuanced understanding of ethical considerations unique to crowdsourcing neuroscience projects.
 <br>
-
 <html>
 <div class="panel-speakers" id="panel5"></div>
 

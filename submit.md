@@ -17,8 +17,9 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 </p>
 
 <p align="justify">
-  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u){:target="_blank"} <br><br>
-  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2023/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
+  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join us, 
+  please fill in this [form](https://https://forms.office.com/r/k9dL88hYiJ){:target="_blank"} <br><br>
+  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2024/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
 
 ## Panel Discussion Self-Nominations 
@@ -27,15 +28,16 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 **Panel Sessions** are moderated discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
 </p>
 <p align="justify">
-You can self-nominate as a speaker for the following **hybrid panel discussions**: <br> 
-**8:00 GMT-4 July 23, 2023** (Sunday): Topic 1: Telehealth as a tool for open data research and sharing <br>
-**14:15 GMT-4 July 23, 2023** (Sunday): Topic 2: Evolution of open publishing (To do or not to do?/Lessons learnt) <br>
-**8:00 GMT-4 July 24, 2023** (Monday): Topic 3: Standardization of code <br>
-**10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Open Data Governance and Infrastructure <br>
-**10:30 GMT-4 July 26, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
- 
-**You can self-nominate as a panelist until July 2 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
-After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early July. <br> 
+You can self-nominate as a speaker for the following **hybrid panel discussions** (schedule TBD): <br> 
+<!-- **8:00 GMT-4 July 23, 2023** (Sunday):  -->Topic 1: Open Science - who pays the bill <br>
+<!-- **14:15 GMT-4 July 23, 2023** (Sunday):  -->Topic 2: Getting started in Open Science <br>
+<!-- **8:00 GMT-4 July 24, 2023** (Monday):  -->Topic 3: Changing face of Open Science <br>
+<!-- **10:30 GMT-4 July 25, 2023** (Tuesday):  -->Topic 4: Open Science in Asia/Korea <br>
+<!-- **10:30 GMT-4 July 26, 2023** (Wednesday):  -->Topic 5: Many A Little Makes A Mickle - Crowdsourcing for brain mapping <br><br>
+
+**We will release the form for self-nomination as a panelist soon!**
+**You can self-nominate as a panelist <!-- until July 2 (12pm anywhere on Earth) --> through this [form](https://forms.office.com/r/pBYUbr5bEg){:target="_blank"}.**<br> <br>
+<!-- After this date, t --> The nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early June. <br> 
 </p>
 {::options parse_block_html="false" /}
 
@@ -48,15 +50,16 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **5 slots**:<br>
-**10.30-11.30 (GMT -4) July 23** (Sunday) : OSR: Emergent Session #1 <br>
-**10.30-11.30 (GMT -4) July 24** (Monday) : OSR: Emergent Session #2 <br>
-**14.45-15.45 (GMT -4) July 24** (Monday) : OSR: Emergent Session #3 <br>
-**8.00-9.00 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #4 <br>
-**14.45-15.45 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #5 <br>
+This year we offer **5 slots** (time TBD):<br>
+**The exact time for these slots as well as the submission link will be released soon!**
+**<!-- 10.30-11.30 (GMT -4) July 23** (Sunday) :  -->OSR: Emergent Session #1 <br>
+**<!-- 10.30-11.30 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #2 <br>
+**<!-- 14.45-15.45 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #3 <br>
+**<!-- 8.00-9.00 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #4 <br>
+**<!-- 14.45-15.45 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #5 <br>
 <br> 
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo [template](https://github.com/ohbm/osr2023/issues/1){:target="_blank"}.**<br> <br>
-After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
+**You can request to hold such a session <!-- until June 25 (12pm anywhere on Earth)  -->by creating an issue through our github repo [template](https://github.com/ohbm/osr2024/issues/1){:target="_blank"}.**<br> <br>
+<!-- After this date, t -->The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br> 
 </p>
 {::options parse_block_html="false" /}
 

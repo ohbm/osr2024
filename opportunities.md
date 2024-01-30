@@ -5,6 +5,23 @@ title: Volunteering Opportunities
 
 ## Roles
 
+**OSR & BrainHack Volunteering** <br>
+Dates: During OHBM 2024 <br>
+Format: in-person or virtually <br>
+
+<ins>Tasks</ins>
+* Helping the core planning team with miscellaneous tasks including:
+    * Polishing website
+    * Engaging Social Media
+    * Running the event(s)
+    * Take care of DouYu (I speak Chinese)
+    * Prep the materials
+    * I'm game for anything
+
+***[Get involved now!](/volunteer.md)***
+
+---
+
 **General Volunteering** <br>
 Dates: Throughout the year <br>
 
