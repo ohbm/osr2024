@@ -44,6 +44,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
+        <td class = "people">
+        </td>
     </tr>
 </table>
 <table class="people">
