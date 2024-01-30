@@ -148,16 +148,18 @@ When: TBD <!-- 10:30 GMT-4 | July 25, 2023 (Tuesday) --> <br/>
 <br/>
 Although Open Science has been well-recognized by the neuroimaging field as a crucial step towards better scientific practices that facilitate reproducibility and reliability, the progress has mainly taken place in the Western world. Asia, or Korea specifically, is relatively new to the practice and the idea and has encountered unique challenges. With the annual meeting of OHBM being held in an Asian, non-English speaking country, this meeting provides a unique opportunity for local researchers who are interested in Open Science to share their experiences and challenges they face in their countries. This discussion will foster the development of Open Science through international collaboration and advance the Open Science practice to being more inclusive globally.
 <br><br>
+
 Specific topics of discussion include:
 1. What is stopping people from practicing Open Science?
 2. What is stopping institutions and governments to support Open Science?
 3. How do you think the community could help?
 <br><br>
+
 At the end of the panel discussion, the audience members will be able to:
 1. Understanding the current Open Science in Asia/Korea.
 2. Learn about the unique challenges Asian/Korean Open Science researchers are facing.
 3. Initiate discussion for possible solutions and support.
-<br>
+<br/>
 <html>
 <div class="panel-speakers" id="panel4"></div>
 
@@ -172,10 +174,12 @@ When: TBD <!-- 10:30 GMT-4 | July 26, 2023 (Wednesday) --> <br/>
 <br/>
 Crowdsourcing e.g., multi-site collaboration and citizen science, is rising as a new research paradigm. By harnessing the power of crowdsourcing, we can leverage the diverse expertise and perspectives of a global community to accelerate advancements in brain mapping. This collaborative approach not only facilitates the sharing of data and resources but also promotes innovation and efficiency in tackling the complexities of understanding the brain. With the following examples of the questions that will be addressed during this panel discussion, experts with diverse backgrounds will share their experiences and thoughts.
 <br><br>
+
 Specific topics of discussion include:
 1. How does crowdsourcing work in brain mapping research? 
 2. What are the ethical considerations unique to crowdsourcing projects? 
 <br><br>
+
 At the end of the panel discussion, the audience members will be able to:
 1. Get insights into how crowdsourcing and open science work and identify optimal crowdsourcing models for brain mapping research.
 2. Develop a nuanced understanding of ethical considerations unique to crowdsourcing neuroscience projects.
