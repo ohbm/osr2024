@@ -3,6 +3,8 @@ layout: page
 title: Emergent Sessions
 ---
 
+{::options parse_block_html="true" /}
+
 <div id='emergent'></div>
 <br/>
 <br/>
@@ -21,6 +23,8 @@ Submitted Emergent requests will be briefly reviewed and selected by the OSR tea
 
 <p align="justify">**How can I attend Emergent Sessions if I am a virtual attendee?**</p>
 <p align="justify"> All Emergent Sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
+
+{::options parse_block_html="false" /}
 
 ### Emergent Session 1: TBD
 <!-- #### 10.30 (GMT-4) July 23 (Sunday)

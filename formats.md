@@ -21,7 +21,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 
 {::options parse_block_html="true" /}
 
-<div id='educational'></div>
+<!-- <div id='educational'></div>
 <br/>
 <br/>
 {% include youtubePlayer.html id="Z-aOcZSAmHY" %}
@@ -35,7 +35,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <br/>
 <br/>
 
----
+--- -->
 
 <div id='panel'></div>
 <br/>

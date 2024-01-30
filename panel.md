@@ -76,8 +76,11 @@ function displayPanel(panelName) {
 
 
 The OSR has always been a place to learn and share experiences.
-This year we are centering these experiences around themes which are undergoing rapid change in our discipline. For each session, we
-are looking for 1-2 self-nominated panelists. If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg)! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
+This year we are centering these experiences around themes which are undergoing rapid change in our discipline. 
+
+For each session, we are looking for 1-2 self-nominated panelists. 
+**If you are interested in joining as a panelist and would like to self-nominate, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg)!** 
+If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.
 
 ## Topic 1: Open Science - Who pays the bill?
 #### <a href="" target="_blank">Crowdcast link available soon!<!-- Join on Crowdcast --> </a> 
