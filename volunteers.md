@@ -7,12 +7,9 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 
 <br>
 
-<html>
-
 <table class="people">
     <tr class="people">
         <td class="people">
-            <!--<a style="display:block; color:#05323F" href="../team_priya_suppiah">-->
             <a style="display:block; color:#05323F" >
                 <aside>
                     <header>
@@ -32,7 +29,6 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <header>
                 <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
                 <h3>Xiangzhen Kong</h3>
                 <h4>OSR Co-Chair</h4>
@@ -159,9 +155,6 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
         </td>
     </tr>
 </table>
-
-</html>
-
 
 ### A special thanks to our volunteers!
 Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
