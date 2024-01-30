@@ -37,10 +37,6 @@ function showScheduleForDay(day) {
 }
 </script>
 
-<div>
-**Coming soon!**
-</div>
-
 <div class="schedule-days">
   <div id="day-06-24" class="schedule-day active" onclick="showScheduleForDay('06-24')">June 24</div>
   <div id="day-06-25" class="schedule-day" onclick="showScheduleForDay('06-25')">June 25</div>
@@ -51,6 +47,13 @@ function showScheduleForDay(day) {
 <h5 style="text-align: center;">
 GMT+9
 </h5>
+
+## Coming soon!
+Meanwhile, please find the information in the following sections:
+* [Panel Discussions](/panel.md)
+* [Table Talk](/tabletalk.md)
+* [Emergent Sessions](/emergent.md)
+* Symposium to-be-confirmed
 
 <div id="schedule-06-24" class="schedule-block">
     <h4>June 24, Monday</h4>
