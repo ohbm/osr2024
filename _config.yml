@@ -37,6 +37,7 @@ navbar-links:
     # - Educational: "educational"
 
   Register: "register"
+  Self-Nominate & Submit: "submit"
   Volunteering: 
     - Opportunities: "opportunities"
     - Get involved!: "volunteer"

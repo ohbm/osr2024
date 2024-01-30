@@ -18,7 +18,7 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 
 <p align="justify">
   We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join us, 
-  please fill in this [form](https://https://forms.office.com/r/k9dL88hYiJ){:target="_blank"} <br><br>
+  please fill in this [form](https://forms.office.com/r/k9dL88hYiJ){:target="_blank"} <br><br>
   You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2024/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
 
@@ -52,11 +52,11 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
 This year we offer **5 slots** (time TBD):<br>
 **The exact time for these slots as well as the submission link will be released soon!**
-**<!-- 10.30-11.30 (GMT -4) July 23** (Sunday) :  -->OSR: Emergent Session #1 <br>
-**<!-- 10.30-11.30 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #2 <br>
-**<!-- 14.45-15.45 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #3 <br>
-**<!-- 8.00-9.00 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #4 <br>
-**<!-- 14.45-15.45 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #5 <br>
+<!-- **10.30-11.30 (GMT -4) July 23** (Sunday) :  -->OSR: Emergent Session #1 <br>
+<!-- **10.30-11.30 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #2 <br>
+<!-- **14.45-15.45 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #3 <br>
+<!-- **8.00-9.00 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #4 <br>
+<!-- **14.45-15.45 (GMT -4) July 25** (Tuesday):  -->OSR: Emergent Session #5 <br>
 <br> 
 **You can request to hold such a session <!-- until June 25 (12pm anywhere on Earth)  -->by creating an issue through our github repo [template](https://github.com/ohbm/osr2024/issues/1){:target="_blank"}.**<br> <br>
 <!-- After this date, t -->The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br> 
