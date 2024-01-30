@@ -7,6 +7,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 
 <br>
 
+<html>
+
 <table class="people">
     <tr class="people">
         <td class="people">
@@ -158,9 +160,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
     </tr>
 </table>
 
-{::options parse_block_html="false" /}
+</html>
+
+
 ### A special thanks to our volunteers!
-{::options parse_block_html="true" /}
-<p align="justify">
 Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
-</p>
