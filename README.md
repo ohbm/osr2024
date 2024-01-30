@@ -2,7 +2,7 @@
 
 This is the GitHub repository for the OHBM Open Science Room (OSR).
 
-This repository hosts the code for [the OSR2023 website](https://ohbm.github.io/osr2023).
+This repository hosts the code for [the OSR2024 website](https://ohbm.github.io/osr2024).
 
 Below we provide basic info and links to more information. 
 
@@ -12,15 +12,15 @@ We are part of the <a href="https://ossig.netlify.com/">Open Science Special Int
 
 ### What are we doing?
 
-We are organizing, among other events, the Open Science Room at the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114" target="_blank">2023 meeting of the OHBM</a>.
+We are organizing, among other events, the Open Science Room at the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114" target="_blank">2024 meeting of the OHBM</a>.
 
 ### Get involved
 
-All information is available on <a href="https://ohbm.github.io/osr2023" target="_blank">our website</a>.
+All information is available on <a href="https://ohbm.github.io/osr2024" target="_blank">our website</a>.
 
 ### Contact us
 
-Feel free to <a href="https://ohbm.github.io/osr2023/contact/" target="_blank">reach out to us</a>!
+Feel free to <a href="https://ohbm.github.io/osr2024/contact/" target="_blank">reach out to us</a>!
 
 
 ---
