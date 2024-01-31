@@ -13,11 +13,11 @@ title: Emergent Sessions
 <p align="justify">**What are Emergent Sessions?**</p>
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 30 minutes to one hour (ideally 30 minutes planned talk and 30 minutes discussion). The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
 
-<p align="justify">**Emergent Sessions** are [bookable](/submit.md){:target="_blank"}.</p>
+<p align="justify">**Emergent Sessions** are [available via application with limited slots](/submit.md){:target="_blank"}.</p>
 
 <p align="justify">**How do I host an Emergent Session?**</p>
 <p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions.
-For 2024, we are opening 2 slots now and 3 slots shortly before the conference.
+For 2024, we are opening 2 slots now and 2 slots shortly before the conference.
 Emergent Sessions can be booked by any OHBM or OSR registered participant at any point during these periods of time (or in the meeting while there is space in the schedule).
 Submitted Emergent requests will be briefly reviewed and selected by the OSR team for appropriate content (taking into account diversity and how the topics fits), and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
 

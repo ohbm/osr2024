@@ -36,7 +36,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 <!-- **10:30 GMT-4 July 26, 2023** (Wednesday):  -->Topic 5: Many A Little Makes A Mickle - Crowdsourcing for brain mapping <br><br>
 
 **We will release the form for self-nomination as a panelist soon!**
-**You can self-nominate as a panelist <!-- until July 2 (12pm anywhere on Earth) --> through this [form](https://forms.office.com/r/pBYUbr5bEg){:target="_blank"}.**<br> <br>
+<!-- **You can self-nominate as a panelist until May 1st (12pm anywhere on Earth) through this [form](https://forms.office.com/r/pBYUbr5bEg){:target="_blank"}.**<br> <br> -->
 <!-- After this date, t --> The nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early June. <br> 
 </p>
 {::options parse_block_html="false" /}
@@ -50,7 +50,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **5 slots** (time TBD). For now, we open submissions to 2 slots, and the other 3 will be open shortly before the conference:<br>
+This year we offer **5 slots** (time TBD). For now, we open submissions to 2 slots, and the other 2 will be open shortly before the conference:<br>
 <!-- **10.30-11.30 (GMT -4) July 23** (Sunday) :  -->OSR: Emergent Session #1 <br>
 <!-- **10.30-11.30 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #2 <br>
 <!-- **14.45-15.45 (GMT -4) July 24** (Monday) :  -->OSR: Emergent Session #3 <br>

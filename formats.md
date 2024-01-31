@@ -42,13 +42,13 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <br/>
 
 {% include youtubePlayer.html id="xSGlsht4eHw" %}
-<p align="justify">**What are Panel Sessions?**</p>
-<p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
+<p align="justify">**What are Panel Discussions?**</p>
+<p align="justify"> Panel Discussions are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
 In the 2024 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Panel Sessions are also a space to meet and interact with invited panelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted to support everyone in making real connections with other attendees and panelists.</p>
 
-<p align="justify">**What is the format of Panel Sessions?**</p>
-<p align="justify">Panel Sessions will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
-Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
+<p align="justify">**What is the format of Panel Discussions?**</p>
+<p align="justify">Panel Discussion will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
+Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 4 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
 <p align="justify">**We are looking for self-nominated panelists on each topic!**</p>
@@ -60,10 +60,24 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
   <li>Open Science in Asia/Korea</li>
   <li>Many A Little Makes A Mickle - Crowdsourcing for brain mapping</li>
 </ol>
-<p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg)! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
+<p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, we will release a form to fill in soon<!-- please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg) -->, and we will confirm all panelists by May! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
 
 <br/>
 <br/>
+
+---
+
+<div id='tabletalk'></div>
+<br/>
+<br/>
+
+<p align="justify">**What are Table Talks?**</p>
+<p align="justify"> Table talks are information discussion sessions on the same topics as the Panel Discussion, but during the Table Talk, everyone can ask questions and everyone can answer them. This aims to foster organice conversations on the topics-of-interest in Open Science.</p>
+
+<p align="justify">**What is the format of Table Talk?**</p>
+<p align="justify">Table Talk will feature a host that will moderate the same topic of discussion as the panel, but among all attendees.
+There will be a moderator from the OSR team, and the panelists of the same topics are warmly invited to join for the table talk. 
+Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the moderator throughout the session.</p>
 
 ---
 
@@ -75,11 +89,11 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 <p align="justify">**What are Emergent Sessions?**</p>
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 30 minutes to one hour (ideally 30 minutes planned talk and 30 minutes discussion). The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
 
-<p align="justify">**Emergent Sessions** are [bookable](/submit.md){:target="_blank"}.</p>
+<p align="justify">**Emergent Sessions** are [available via application with limited slots](/submit.md){:target="_blank"}.</p>
 
 <p align="justify">**How do I host an Emergent Session?**</p>
 <p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions.
-For 2024 OSR, we are opening 2 slots now and 3 slots shortly before the conference.
+For 2024 OSR, we are opening 2 slots now and 2 slots shortly before the conference.
 Emergent Sessions can be booked by any OHBM or OSR registered participant at any point during these periods of time (or in the meeting while there is space in the schedule).
 Submitted Emergent requests will be briefly reviewed and selected by the OSR team for appropriate content (taking into account diversity and how the topics fits), and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
 
