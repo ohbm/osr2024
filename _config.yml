@@ -33,7 +33,7 @@ navbar-links:
     - Panels: "panel"
     - Emergent Sessions: "emergent"
     - Table Talks: "tabletalk"
-    # - Symposium: "symposium"
+    - Symposium: "symposium"
     # - Educational: "educational"
 
   Register: "register"
