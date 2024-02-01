@@ -79,9 +79,9 @@ The OSR has always been a place to learn and share experiences.
 This year we are centering these experiences around themes which are undergoing rapid change in our discipline. 
 
 For each session, we are looking for 1-2 self-nominated panelists, and the link of self-nomination will be available soon! 
-<!-- **If you are interested in joining as a panelist and would like to self-nominate, please fill in the following form!** <br>
+<!-- **If you are interested in joining as a panelist and would like to self-nominate, please fill in the following form!** <br>-->
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0FOODU0N0Y2VUxDWDQwWkI0S0NMSTgwMy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
+<!-- <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0FOODU0N0Y2VUxDWDQwWkI0S0NMSTgwMy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
 
 We will confirm with you by May on the invitation. Meanwhile, if you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.
 
