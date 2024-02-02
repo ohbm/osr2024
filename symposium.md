@@ -24,10 +24,14 @@ title: Open Science Symposium
 
 Reproducibility, replicability and reliability (3R) remain challenging for cognitive neuroscience while psychometric theory has been increasingly appreciated by the community. However, systematic psychometric assessments are sparse due to the lack of a well-designed large-scale neuroimaging resource. I will introduce a big data, namely 3R-BRAIN, to fill this gap. This open data contains three parts of richly sampled at individual level accounting for measurements of variability across scanners, time occasions, magnetic field strengths, task designs. I will officially announce the release of 3R-BRAIN.
 
-## Computational resources and other opportunities for open science practices
+## UK Biobank: A Big Open dataset with global challenges and enormous promise
 #### Speaker: Ollie Gray (UK Biobank)
 
+<br>In 2014, UK Biobank started the world’s largest multi-modal imaging study, with the aim of acquiring brain, cardiac and abdominal magnetic resonance imaging, dual-energy X-ray absorptiometry and carotid ultrasound data from 100,000 participants. To further enhance the phenotypic characterisation of the cohort, we are now in the process of inviting 60,000 participants back to a longitudinal repeat of the imaging assessment.<br>
 
+<br>The availability of exquisitely detailed imaging data at scale has enabled the development of a growing range of image processing algorithms and pipelines by an increasingly global research community. This community interact with the dataset to generate a growing number of imaging-derived phenotypes that are subsequently integrated into the UK Biobank resource and released regularly back to the community.<br>
+
+<br>We will share the challenges of both conducting a longitudinal study at scale and analysing the acquired data and describe solutions. We will describe how the UK Biobank’s cloud research environment, the Research Analysis Platform, provides computational power, funding, and training potential to drive scientific progress and enable global collaborations. Finally, we will provide examples of significant recent developments to the resource and highlight gains in scientific insight from cross-modal investigations into the plethora of UK Biobank imaging, genetic, and linked health data.<br>
 
 ## Bridging Gaps in Women's Health Research: The ENIGMA Neuroendocrinology Working Group
 #### Speaker: Carina Heller (ENIGMA Neuroendocrinology Working Group)
