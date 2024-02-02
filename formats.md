@@ -60,7 +60,7 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
   <li>Open Science in Asia/Korea</li>
   <li>Many A Little Makes A Mickle - Crowdsourcing for brain mapping</li>
 </ol>
-<p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, we will release a form to fill in soon<!-- please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg) -->, and we will confirm all panelists by May! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
+<p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg), and we will confirm all panelists by May! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
 
 <br/>
 <br/>
